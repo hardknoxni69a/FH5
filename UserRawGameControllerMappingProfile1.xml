@@ -1,0 +1,194 @@
+
+<RawGameControllerInputMappingProfile Version="1" Id="4b08b0a8-ae04-416c-8c3f-4ed4490f5456" UserFacingName="IDS_BlankLayoutForCopying" IsDefaultProfile="1" PrimaryDeviceVidPid="0x346e0005" FFBDeviceVidPid="0x346e0005" FFBMotorIndex="0">
+
+  <Context Version="1" Context="0">
+  
+    <!-- Key = INPUTCMD_GAS,Moza SR-P Lite Pedals Axis 1 -->
+    <Value Version="1" Key="0" VidPid="0x346e0005" InputType="Axis" Index="4" InvertAxis="false" InnerDeadzone="0" OuterDeadzone="1.0" />
+    <!-- Key = INPUTCMD_BRAKE,Moza SR-P Lite Pedals Axis 2 -->
+				   
+    <Value Version="1" Key="1" VidPid="0x346e0005" InputType="Axis" Index="2" InvertAxis="false" InnerDeadzone="0" OuterDeadzone="1.0" />
+	<!-- Key = INPUTCMD_STEERING, MOZA R3ESX Axis 0 -->
+				   
+    <Value Version="1" Key="2" VidPid="0x346e0005" InputType="Axis" Index="0" InvertAxis="false" DeadzonesAroundCenter="true" InnerDeadzone="0.00" OuterDeadzone="1.00" />
+	<!-- Key = INPUTCMD_HANDBRAKE, MOZA R3ESX Button 3 -->
+				   
+    <Value Version="1" Key="3" VidPid="0x346e0005" InputType="Axis" Index="7" />
+    <!-- Key = INPUTCMD_SHIFTUP, MOZA R3ESX Button 13 -->
+    <Value Version="1" Key="4" VidPid="0x346e0005" InputType="Button" Index="13" />
+    <!-- Key = INPUTCMD_SHIFTDOWN, MOZA R3ESX Button 12 -->
+    <Value Version="1" Key="5" VidPid="0x346e0005" InputType="Button" Index="12" />    
+	<!-- Key = INPUTCMD_CLUTCH,Moza SR-P Lite Pedals Axis 3 -->
+    <Value Version="1" Key="6" VidPid="0x346e0005" InputType="Axis" Index="3" InvertAxis="false" InnerDeadzone="0" OuterDeadzone="1.0" />
+
+    <!-- Key = INPUTCMD_LOOK_LEFT, MOZA R3ESX Button 20 -->
+    <Value Version="1" Key="11" VidPid="0x346e0005" InputType="Button" Index="19" />
+    <!-- Key = INPUTCMD_LOOK_RIGHT, MOZA R3ESX Button 33 -->
+    <Value Version="1" Key="12" VidPid="0x346e0005" InputType="Button" Index="32" />
+    <!-- Key = INPUTCMD_LOOK_STRAIGHT_BACK, MOZA R3ESX Button 25 -->
+    <Value Version="1" Key="13" VidPid="0x346e0005" InputType="Button" Index="false" />
+
+
+    <!-- Key = INPUTCMD_SWITCH_CAMERA, MOZA R3ESX Button 32 -->
+    <Value Version="1" Key="18" VidPid="0x346e0005" InputType="Button" Index="31" />
+
+	<!-- Key = INPUTCMD_MULLIGAN, MOZA R3ESX Button 4 -->
+    <Value Version="1" Key="21" VidPid="0x346e0005" InputType="Button" Index="3" />
+
+	<!-- Key = INPUTCMD_PAUSE, MOZA R3ESX Button 37 -->
+    <Value Version="1" Key="22" VidPid="0x346e0005" InputType="Button" Index="36" />
+
+	
+    <!-- The button number is the Windows reported number, the index is from 0 -->
+    <!-- Key = INPUTCMD_GEAR_REVERSE, MOZA HGP Button 5 -->
+    <Value Version="1" Key="172" VidPid="0x346e0005" InputType="Button" Index="112" />
+    <!-- Key = INPUTCMD_GEAR_FIRST, MOZA HGP Button 6 -->
+    <Value Version="1" Key="173" VidPid="0x346e0005" InputType="Button" Index="113" />
+    <!-- Key = INPUTCMD_GEAR_SECOND, MOZA HGP Button 7 -->
+    <Value Version="1" Key="174" VidPid="0x346e0005" InputType="Button" Index="114" />
+    <!-- Key = INPUTCMD_GEAR_THIRD, MOZA HGP Button 8 -->
+    <Value Version="1" Key="175" VidPid="0x346e0005" InputType="Button" Index="115" />
+    <!-- Key = INPUTCMD_GEAR_FOURTH, MOZA HGP Button 9 -->
+    <Value Version="1" Key="176" VidPid="0x346e0005" InputType="Button" Index="116" />
+    <!-- Key = INPUTCMD_GEAR_FIFTH, MOZA HGP Button 10 -->
+    <Value Version="1" Key="177" VidPid="0x346e0005" InputType="Button" Index="117" />
+    <!-- Key = INPUTCMD_GEAR_SIXTH, MOZA HGP Button 11 -->
+    <Value Version="1" Key="178" VidPid="0x346e0005" InputType="Button" Index="118" />
+    <!-- Key = INPUTCMD_GEAR_SEVENTH, MOZA HGP Button 12 -->
+    <Value Version="1" Key="179" VidPid="0x346e0005" InputType="Button" Index="119" />	
+	
+	<!-- Key = INPUTCMD_TTS_TEXT_ENTRY, MOZA R3ESX Button 35 -->	
+	<Value Version="1" Key="184" VidPid="0x346e0005" InputType="Button" Index="34"/>
+	
+	<!-- Key = INPUTCMD_TTS_TEXT_ENTRY, MOZA R3ESX Button 24 -->	
+	<Value Version="1" Key="202" VidPid="0x346e0005" InputType="Button" Index="23"/>
+	<!-- Key = INPUTCMD_PIT_ENTRY_ASSIST, MOZA R3ESX Button 24 -->	
+	<Value Version="1" Key="203" VidPid="0x346e0005" InputType="Button" Index="23"/>
+	<!-- Key = INPUTCMD_TTS_TEXT_ENTRY, MOZA R3ESX Button 24 -->	
+	<Value Version="1" Key="204" VidPid="0x346e0005" InputType="Button" Index="23"/>
+		
+	<!-- Key = INPUTCMD_QUICKACTION_UP_PRESS, MOZA R3ESX Button 5 -->
+    <Value Version="1" Key="205" VidPid="0x346e0005" InputType="Button" Index="4" />
+    <!-- Key = INPUTCMD_QUICKACTION_UP_RELEASE, MOZA R3ESX Button 5 -->
+    <Value Version="1" Key="209" VidPid="0x346e0005" InputType="Button" Index="4" />
+    <!-- Key = INPUTCMD_QUICKACTION_DOWN_PRESS, MOZA R3ESX Button 7 -->
+    <Value Version="1" Key="206" VidPid="0x346e0005" InputType="Button" Index="6" />
+    <!-- Key = INPUTCMD_QUICKACTION_DOWN_RELEASE, MOZA R3ESX Button 7 -->
+    <Value Version="1" Key="210" VidPid="0x346e0005" InputType="Button" Index="6" />
+    <!-- Key = INPUTCMD_QUICKACTION_LEFT_PRESS, MOZA R3ESX Button 8 -->
+    <Value Version="1" Key="207" VidPid="0x346e0005" InputType="Button" Index="7" />
+    <!-- Key = INPUTCMD_QUICKACTION_LEFT_RELEASE, MOZA R3ESX Button 8 -->
+    <Value Version="1" Key="211" VidPid="0x346e0005" InputType="Button" Index="7" />
+    <!-- Key = INPUTCMD_QUICKACTION_RIGHT_PRESS, MOZA R3ESX Button 6 -->
+    <Value Version="1" Key="208" VidPid="0x346e0005" InputType="Button" Index="5" />
+    <!-- Key = INPUTCMD_QUICKACTION_RIGHT_RELEASE, MOZA R3ESX Button 6 -->
+    <Value Version="1" Key="212" VidPid="0x346e0005" InputType="Button" Index="5" />
+
+  </Context>
+  
+  <!-- UI -->
+  <Context Version="1" Context="7">
+    <!-- Key = INPUTCMD_UI_OK_PRESS, MOZA R3ESX Button 1 -->
+    <Value Version="1" Key="68" VidPid="0x346e0005" InputType="Button" Index="0" />
+    <!-- Key = INPUTCMD_UI_OK_RELEASE, MOZA R3ESX Button 1 -->
+    <Value Version="1" Key="69" VidPid="0x346e0005" InputType="Button" Index="0" />
+    <!-- Key = INPUTCMD_UI_OK_REPEAT, MOZA R3ESX Button 1 -->
+    <Value Version="1" Key="70" VidPid="0x346e0005" InputType="Button" Index="0" />
+
+    <!-- Key = INPUTCMD_UI_CANCEL_PRESS, MOZA R3ESX Button 2 -->
+    <Value Version="1" Key="71" VidPid="0x346e0005" InputType="Button" Index="1" />
+    <!-- Key = INPUTCMD_UI_CANCEL_RELEASE, MOZA R3ESX Button 2 -->
+    <Value Version="1" Key="72" VidPid="0x346e0005" InputType="Button" Index="1" />
+    <!-- Key = INPUTCMD_UI_CANCEL_REPEAT, MOZA R3ESX Button 2 -->
+    <Value Version="1" Key="73" VidPid="0x346e0005" InputType="Button" Index="1" />
+
+    <!-- Key = INPUTCMD_UI_BACK_PRESS, MOZA R3ESX Button 21 -->
+    <Value Version="1" Key="74" VidPid="0x346e0005" InputType="Button" Index="20" />
+    <!-- Key = INPUTCMD_UI_BACK_RELEASE, MOZA R3ESX Button 21 -->
+    <Value Version="1" Key="75" VidPid="0x346e0005" InputType="Button" Index="20" />
+    <!-- Key = INPUTCMD_UI_BACK_REPEAT, MOZA R3ESX Button 21 -->
+    <Value Version="1" Key="76" VidPid="0x346e0005" InputType="Button" Index="20" />
+
+    <!-- Key = INPUTCMD_UI_START_PRESS, MOZA R3ESX Button 34 -->
+    <Value Version="1" Key="78" VidPid="0x346e0005" InputType="Button" Index="33" />
+    <!-- Key = INPUTCMD_UI_START_RELEASE, MOZA R3ESX Button 34 -->
+    <Value Version="1" Key="79" VidPid="0x346e0005" InputType="Button" Index="33" />
+    <!-- Key = INPUTCMD_UI_START_REPEAT, MOZA R3ESX Button 34 -->
+    <Value Version="1" Key="80" VidPid="0x346e0005" InputType="Button" Index="33" />
+
+
+
+    <!-- Key = INPUTCMD_UI_UP_PRESS, MOZA R3ESX Button 5 -->
+    <Value Version="1" Key="81" VidPid="0x346e0005" InputType="Button" Index="4" />
+    <!-- Key = INPUTCMD_UI_UP_RELEASE, MOZA R3ESX Button 5 -->
+    <Value Version="1" Key="82" VidPid="0x346e0005" InputType="Button" Index="4" />
+    <!-- Key = INPUTCMD_UI_UP_REPEAT, MOZA R3ESX Button 5 -->
+    <Value Version="1" Key="83" VidPid="0x346e0005" InputType="Button" Index="4" />
+
+    <!-- Key = INPUTCMD_UI_DOWN_PRESS, MOZA R3ESX Button 7 -->
+    <Value Version="1" Key="84" VidPid="0x346e0005" InputType="Button" Index="6" />
+    <!-- Key = INPUTCMD_UI_DOWN_RELEASE, MOZA R3ESX Button 7 -->
+    <Value Version="1" Key="85" VidPid="0x346e0005" InputType="Button" Index="6" />
+    <!-- Key = INPUTCMD_UI_DOWN_REPEAT, MOZA R3ESX Button 7 -->
+    <Value Version="1" Key="86" VidPid="0x346e0005" InputType="Button" Index="6" />
+
+    <!-- Key = INPUTCMD_UI_LEFT_PRESS, MOZA R3ESX Button 8 -->
+    <Value Version="1" Key="87" VidPid="0x346e0005" InputType="Button" Index="7" />
+    <!-- Key = INPUTCMD_UI_LEFT_RELEASE, MOZA R3ESX Button 8 -->
+    <Value Version="1" Key="88" VidPid="0x346e0005" InputType="Button" Index="7" />
+    <!-- Key = INPUTCMD_UI_LEFT_REPEAT, MOZA R3ESX Button 8 -->
+    <Value Version="1" Key="89" VidPid="0x346e0005" InputType="Button" Index="7" />
+
+    <!-- Key = INPUTCMD_UI_RIGHT_PRESS, MOZA R3ESX Button 6 -->
+    <Value Version="1" Key="90" VidPid="0x346e0005" InputType="Button" Index="5" />
+    <!-- Key = INPUTCMD_UI_RIGHT_RELEASE, MOZA R3ESX Button 6 -->
+    <Value Version="1" Key="91" VidPid="0x346e0005" InputType="Button" Index="5" />
+    <!-- Key = INPUTCMD_UI_RIGHT_REPEAT, MOZA R3ESX Button 6 -->
+    <Value Version="1" Key="92" VidPid="0x346e0005" InputType="Button" Index="5" />
+
+    <!-- Key = INPUTCMD_UI_X_PRESS, MOZA R3ESX Button 3 -->
+    <Value Version="1" Key="135" VidPid="0x346e0005" InputType="Button" Index="2" />
+    <!-- Key = INPUTCMD_UI_X_RELEASE, MOZA R3ESX Button 3 -->
+    <Value Version="1" Key="136" VidPid="0x346e0005" InputType="Button" Index="2" />
+    <!-- Key = INPUTCMD_UI_X_REPEAT, MOZA R3ESX Button 3 -->
+    <Value Version="1" Key="137" VidPid="0x346e0005" InputType="Button" Index="2" />
+
+    <!-- Key = INPUTCMD_UI_Y_PRESS, MOZA R3ESX Button 4 -->
+    <Value Version="1" Key="138" VidPid="0x346e0005" InputType="Button" Index="3" />
+    <!-- Key = INPUTCMD_UI_Y_RELEASE, MOZA R3ESX Button 4 -->
+    <Value Version="1" Key="139" VidPid="0x346e0005" InputType="Button" Index="3" />
+    <!-- Key = INPUTCMD_UI_Y_REPEAT, MOZA R3ESX Button 4 -->
+    <Value Version="1" Key="140" VidPid="0x346e0005" InputType="Button" Index="3" />
+
+    <!-- Key = INPUTCMD_RTRIGGER,Moza SR-P Pedals Axis 1 -->
+    <Value Version="1" Key="126" VidPid="0x346e0005" InputType="Axis" Index="1" InvertAxis="true" InnerDeadzone="0.0" OuterDeadzone="1.0" />
+
+    <!-- Key = INPUTCMD_UI_LBUMPER_PRESS, MOZA R3ESX Button 13 -->
+    <Value Version="1" Key="129" VidPid="0x346e0005" InputType="Button" Index="12" />
+    <!-- Key = INPUTCMD_UI_LBUMPER_RELEASE, MOZA R3ESX Button 13 -->
+    <Value Version="1" Key="130" VidPid="0x346e0005" InputType="Button" Index="12" />
+    <!-- Key = INPUTCMD_UI_LBUMPER_REPEAT, MOZA R3ESX Button 13 -->
+    <Value Version="1" Key="131" VidPid="0x346e0005" InputType="Button" Index="12" />
+
+    <!-- Key = INPUTCMD_UI_RBUMPER_PRESS, MOZA R3ESX Button 14 -->
+    <Value Version="1" Key="132" VidPid="0x346e0005" InputType="Button" Index="13" />
+    <!-- Key = INPUTCMD_UI_RBUMPER_RELEASE, MOZA R3ESX Button 14 -->
+    <Value Version="1" Key="133" VidPid="0x346e0005" InputType="Button" Index="13" />
+    <!-- Key = INPUTCMD_UI_RBUMPER_REPEAT, MOZA R3ESX Button 14 -->
+    <Value Version="1" Key="134" VidPid="0x346e0005" InputType="Button" Index="13" />
+
+    <!-- Key = INPUTCMD_UI_LSTICK_PRESS, MOZA R3ESX Button 0 -->
+    <Value Version="1" Key="141" VidPid="0x346e0005" InputType="Button" Index="0" />
+    <!-- Key = INPUTCMD_UI_LSTICK_RELEASE, MOZA R3ESX Button 0 -->
+    <Value Version="1" Key="142" VidPid="0x346e0005" InputType="Button" Index="0" />
+    <!-- Key = INPUTCMD_UI_LSTICK_REPEAT, MOZA R3ESX Button 0 -->
+    <Value Version="1" Key="143" VidPid="0x346e0005" InputType="Button" Index="0" />
+
+    <!-- Key = INPUTCMD_REPLAY_SPEED_LEFT,Moza SR-P Pedals Axis 2 -->
+    <Value Version="1" Key="147" VidPid="0x346e0005" InputType="Axis" Index="2" InvertAxis="true" InnerDeadzone="0.0" OuterDeadzone="1.0" />
+    <!-- Key = INPUTCMD_REPLAY_SPEED_RIGHT,Moza SR-P Pedals Axis 1 -->
+    <Value Version="1" Key="148" VidPid="0x346e0005" InputType="Axis" Index="1" InvertAxis="true" InnerDeadzone="0.0" OuterDeadzone="1.0" />
+
+  </Context>
+
+</RawGameControllerInputMappingProfile>
